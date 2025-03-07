@@ -6,8 +6,8 @@
 <div align="center">
   
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://https://www.instagram.com/_arthurmdn) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://https://www.linkedin.com/in/arthurmedina11)
+)](https://www.instagram.com/_arthurmdn?igsh=MWFqa3YybDl6ZjE0dQ%3D%3D&utm_source=qr) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/arthurmedina11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 </div>
 
